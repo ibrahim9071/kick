@@ -11,6 +11,11 @@
             "url": "https://dlive.tv/TV90PLUS"  
         },
         {
+            "name": "CNN TÜRK",
+            "slug": "@cnntutk",
+            "url": "https://m.youtube.com/@cnnturk"  
+        },
+        {
             "name": "Artı TV",
             "slug": "artitv",
             "url": "https://www.nimo.tv/artitv"
