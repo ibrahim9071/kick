@@ -6,9 +6,9 @@
     },
     "channels": [
         {
-            "name": "90 Plus",
-            "slug": "90plus",
-            "url": "https://dlive.tv/TV90PLUS"  
+            "name": "VANTV",
+            "slug": "vantv",
+            "url": "https://kick.com/vantv"  
         },
         {
             "name": "Resurrection_Channel_TV",
