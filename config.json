@@ -61,9 +61,9 @@
             "url": "https://kick.com/kuzeymedyatv"  
         },
         {
-            "name": "Safa TV",
-            "slug": "safatv",
-            "url": "https://www.twitch.tv/safatv95"  
+            "name": "ResurrectionAzerbaycan",
+            "slug": "resurrectionazerbaycan",
+            "url": "https://kick.com/resurrectionazerbaycan"  
         },
         {
             "name": "Serhat TV",
@@ -81,9 +81,9 @@
             "url": "https://kick.com/teleontv"  
         },
         {
-            "name": "TV Kayseri",
-            "slug": "tvkayseri",
-            "url": "https://www.twitch.tv/tvkayseri"
+            "name": "Resurrection_yesilcamtv",
+            "slug": "resurrection-yesilcamtv",
+            "url": "https://kick.com/resurrection-yesilcamtv"
         }
     ]
 }
